@@ -1,0 +1,18 @@
+{
+    "Creche": "0 - Analfabeto",
+    "Pré-escola (exceto CA)": "0 - Analfabeto",
+    "Classe Alfabetizada - CA": "9 - Ignorado",
+    "Ensino Fundamental 1º a 4º séries": "1 - 1º a 4º série incompleta do EF (antigo primário ou 1º grau)",
+    "Ensino fundamental 5º a 8º séries": "3 - 5º a 8º série incompleta do EF (antigo ginásio ou 1º grau)",
+    "Ensino Fundamental Completo": "4 - Ensino fundamental completo (antigo ginásio ou 1º grau)",
+    "Ensino Fundamental Especial": "4 - Ensino fundamental completo (antigo ginásio ou 1º grau)",    
+    "Ensino Fundamental EJA - séries iniciais (Supletivo 1º a 4º)": "1 - 1º a 4º série incompleta do EF (antigo primário ou 1º grau)",
+    "Ensino Fundamental EJA - séries finais (Supletivo 5º a 8º)": "3 - 5º a 8º série incompleta do EF (antigo ginásio ou 1º grau)",
+    "Ensino Médio, Médio 2º Ciclo (Científico, Técnico e etc)": "6 - Ensino médio completo (antigo colegial ou 2º grau)",
+    "Ensino Médio Especial": "6 - Ensino médio completo (antigo colegial ou 2º grau)",
+    "Ensino Médio EJA (Supletivo)": "6 - Ensino médio completo (antigo colegial ou 2º grau)",
+    "Superior, Aperfeiçoamento, Especialização, Mestrado, Doutorado": "8 - Educação superior completa",
+    "Alfabetização para Adultos (Mobral, etc)": "1 - 1º a 4º série incompleta do EF (antigo primário ou 1º grau)",
+    "Nenhum": "9 - Ignorado",
+    "nan": "9 - Ignorado"
+}
